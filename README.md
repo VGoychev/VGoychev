@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vladimir Goychev</h1>
-<h3 align="center">My passion is working on mobile apps</h3>
+<h3 align="center">My passion is working on mobile applications for Android ( Soon for iOS )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgoychev&label=Profile%20views&color=0e75b6&style=flat" alt="vgoychev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgoychev" alt="vgoychev" /></a> </p>
 
 - 🔭 I’m currently working on [My Fitness v1.0](https://github.com/VGoychev/My-Fitness-v1.0)
 
