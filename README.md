@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladimir Goychev</h1>
+<h1 align="center">Hey there 👋, I'm Vladimir Goychev</h1>
 <h3 align="center">My passion is working on mobile applications for Android ( Soon for iOS )</h3>
 
 
