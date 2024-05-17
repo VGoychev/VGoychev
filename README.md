@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladimir Goychev</h1>
 <h3 align="center">My passion is working on mobile applications for Android ( Soon for iOS )</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgoychev&label=Profile%20views&color=0e75b6&style=flat" alt="vgoychev" /> </p>
 
 
 - 🔭 I’m currently working on [My Fitness v1.0](https://github.com/VGoychev/My-Fitness-v1.0)
@@ -30,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vgoychev&show_icons=true&locale=en&layout=compact" alt="vgoychev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vgoychev&show_icons=true&locale=en" alt="vgoychev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgoychev&label=Profile%20views&color=0e75b6&style=flat" alt="vgoychev" /> </p>
+
