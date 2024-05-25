@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [My Fitness v1.0](https://github.com/VGoychev/My-Fitness-v1.0)
+- 🔭 I’m currently working on [Macros Calculator](https://github.com/VGoychev/Macros-Calculator)
 
 - 🌱 I’m currently learning **Java and Android**
 
