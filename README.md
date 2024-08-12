@@ -1,4 +1,4 @@
-<h2 align="left">Welcome! I am VGoychev - Android & Web Developer.</h2>
+<h2 align="center">Welcome! I am VGoychev - Android & Web Developer.</h2>
 
 ###
 
