@@ -11,7 +11,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VGoychev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"/> 
-    <img align="center" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhmNXpybjBxb2Iyd3Bnd2JxbWFnenZ2dWJvenh0cXNva3lmOG9wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFiOdYoOlEKac/giphy.webp"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VGoychev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"/> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VGoychev&" alt="VGoychev" /></p>
+</div>
+<div alighn="center">
+    <img align="center" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhmNXpybjBxb2Iyd3Bnd2JxbWFnenZ2dWJvenh0cXNva3lmOG9wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFiOdYoOlEKac/giphy.webp"  />
 </div>
