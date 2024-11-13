@@ -23,7 +23,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VGoychev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"/>
 </div>
 </br>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VGoychev&" alt="VGoychev" /></p>
-</div>
 
