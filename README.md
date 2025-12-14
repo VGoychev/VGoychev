@@ -34,7 +34,7 @@
 #### **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGoychev&layout=donut&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGoychev&layout=donut&theme=tokyonight&cache_seconds=1800">
 </div>
 
 
